@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\Программирование\\Project2\\dz2\\dz2.csproj": {}
+    "C:\\Users\\карина\\Desktop\\dz\\Project2\\dz2\\dz2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\Программирование\\Project2\\dz2\\dz2.csproj": {
+    "C:\\Users\\карина\\Desktop\\dz\\Project2\\dz2\\dz2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Программирование\\Project2\\dz2\\dz2.csproj",
+        "projectUniqueName": "C:\\Users\\карина\\Desktop\\dz\\Project2\\dz2\\dz2.csproj",
         "projectName": "dz2",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\Программирование\\Project2\\dz2\\dz2.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\Программирование\\Project2\\dz2\\obj\\",
+        "projectPath": "C:\\Users\\карина\\Desktop\\dz\\Project2\\dz2\\dz2.csproj",
+        "packagesPath": "C:\\Users\\карина\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\карина\\Desktop\\dz\\Project2\\dz2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\карина\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
